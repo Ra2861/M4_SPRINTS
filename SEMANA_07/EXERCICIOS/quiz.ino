@@ -126,7 +126,7 @@ void loop(){
             //pergunta 4
             
             client.print("<div class=\".container\" id=\"q4\"><a class=\".enunciado\">(jogador2)4- O que é 'Pseudocódigo'?</a><br><br>");
-            client.print("<a class=\".enunciado\" href=\"/26/on\">a) Uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples<br> (nativa a quem o escreve, de forma a ser entendida por qualquer pessoa)<br>sem necessidade de conhecer a sintaxe de uma linguagem de programação específica</a><br><br>");
+            client.print("<a class=\".enunciado\" href=\"/26/H\">a) Uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples<br> (nativa a quem o escreve, de forma a ser entendida por qualquer pessoa)<br>sem necessidade de conhecer a sintaxe de uma linguagem de programação específica</a><br><br>");
             client.print("<a class=\".enunciado\"  href=\"/27/on\">b) Maneira rigorosa de raciocinar</a><br><br>");
             client.print("<a class=\".enunciado\"  href=\"/27/on\">c) Uma sequência de passos para atingir determinado objetivo</a><br><br>");
             client.print("<a class=\".enunciado\"  href=\"/27/on\">d) Uma linguagem de programação</a><br><br>");
@@ -141,7 +141,7 @@ void loop(){
 
             //pergunta 6
             client.print("<div class=\".container\"id=\"q6\"><a class=\".enunciado\">(jogador2)6- O que são arrays?</a><br><br>");
-            client.print("<a class=\".enunciado\" href=\"/26/on\">a) São estruturas de dados homogêneas que possibilitam o armazenamento<br> de grupos de valores do mesmo tipo, em uma única variável</a><br><br>");
+            client.print("<a class=\".enunciado\" href=\"/26/H\">a) São estruturas de dados homogêneas que possibilitam o armazenamento<br> de grupos de valores do mesmo tipo, em uma única variável</a><br><br>");
             client.print("<a class=\".enunciado\"  href=\"/27/on\">b) São variáveis específicas para armazenamento de números inteiro</a><br><br>");
             client.print("<a class=\".enunciado\"  href=\"/27/on\">c) Trata-se de uma forma de planejamento do algoritmo</a><br><br>");
             client.print("<a class=\".enunciado\"  href=\"/27/on\">d) São formas de estruturar ou organizar dados na memória RAM do computador,<br> de modo que você possa utilizar estes dados de uma forma mais eficiente</a><br><br>");
